@@ -1,0 +1,8 @@
+book_filename: "FoDS Capstone Project Report"
+language:
+  ui:
+    chapter_name: "Chapter "
+delete_merged_file: true
+output_dir: "docs"
+view: https://jehopark.github.io/bookdown-test/%s
+edit: https://jehopark.github.io/bookdown-test/%s
